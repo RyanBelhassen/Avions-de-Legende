@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <body>
+        <h1>Avions de légende</h1>
+        <ul>
+            <li class="item"> Airbus
+                <ul>
+                    <li class="item"> A300</li>
+                    <li class="item"> A320</li>
+                    <li class="item"> A380</li>
+                    <li class="item"> Beluga</li>
+                </ul>
+            </li>
+            <li class="item"> Boeing
+                <ul>
+                    <li class="item"> 707</li>
+                    <li class="item"> 737</li>
+                    <li class="item"> 747</li>
+                    <li class="item"> 777</li>
+                </ul>
+            </li>
+            <li class="item"> Autres
+                <ul>
+                    <li class="item"> Antonov An-225</li>
+                    <li class="item"> Concorde</li>
+                    <li class="item"> Caravelle</li>
+                    <li class="item"> Lockheed C-5 Galaxy</li>
+                    <li class="item"> Spitfire</li>
+                    <li class="item"> Douglas DC-3</li>
+                    <li class="item"> Lockheed Constellation</li>
+                </ul>
+            </li>
+        </ul>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur incidunt neque laboriosam vero? Voluptatibus eligendi perferendis sunt dignissimos voluptatum! Quae corporis harum ea blanditiis ex earum rerum architecto perspiciatis repellat error consectetur dolor, illo accusamus praesentium modi explicabo similique laudantium vel quidem veniam? Recusandae corporis aspernatur aperiam incidunt modi doloremque odit vel numquam similique placeat. Earum doloremque dicta, iusto libero, nobis nemo velit odio, rerum ea odit quaerat nostrum ex dolores possimus minima recusandae reiciendis vitae! Vero laborum odit eum tempora blanditiis sunt officia soluta consequatur, suscipit id atque, aliquam iusto officiis aut quis. Optio saepe sint incidunt! Ipsa, earum libero repellat commodi cumque veritatis modi aliquam sed. Necessitatibus quo eaque ratione tempora animi labore magnam, laboriosam cumque aut quam, impedit eius ducimus vitae maiores numquam esse molestiae error assumenda consequuntur in cum quas veritatis culpa fuga. Necessitatibus corrupti, quisquam blanditiis mollitia unde ad odio autem magni quod qui architecto provident, delectus eaque quam repellat totam pariatur officia doloremque eum? Accusantium quas quis vitae fugiat debitis inventore tempora ut deleniti, iure nesciunt? Iusto vitae libero quasi voluptatibus? Corporis, porro! Ratione eos quas error facilis itaque architecto nostrum accusantium, cupiditate facere vero iste temporibus repudiandae eligendi similique, fugiat laborum omnis recusandae dicta eius consequatur illo odio laboriosam. Blanditiis debitis totam velit fugiat! Minus fugiat magni aperiam placeat odit laudantium impedit veritatis officiis doloremque dolorem? Architecto natus unde quibusdam fuga a fugiat. Ut, nesciunt recusandae, non dolores officiis maxime perspiciatis dignissimos veritatis ipsa, tenetur quaerat animi eveniet pariatur dolor vitae corrupti est?</p>
+    </body>
+</html>
